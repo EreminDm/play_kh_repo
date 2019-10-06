@@ -1,0 +1,1 @@
+2019/06/22 15:04:40 Application config readed successfully

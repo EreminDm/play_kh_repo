@@ -1,0 +1,7 @@
+{
+    "DBName":"khrouting",
+    "DBPass": "admin",
+    "DBUser": "admin",
+    "DBHost": "127.0.0.1", 
+    "DBPort": 5432
+}

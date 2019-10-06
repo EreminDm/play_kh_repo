@@ -1,0 +1,28 @@
+2018/07/05 01:15:21 Application config readed successfully
+2018/07/05 01:15:33 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:15:34 Houston, we have a problem with server, code: 400 Bad Request
+2018/07/05 01:15:34 Couldn't make request to Routing service: Houston, we have a problem with server, code: 400 Bad Request
+2018/07/05 01:17:15 Application config readed successfully
+2018/07/05 01:17:33 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:18:54 Application config readed successfully
+2018/07/05 01:19:06 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:23:04 Application config readed successfully
+2018/07/05 01:23:27 Application config readed successfully
+2018/07/05 01:23:48 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:25:05 Application config readed successfully
+2018/07/05 01:25:22 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:30:04 Application config readed successfully
+2018/07/05 01:30:55 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:32:25 Application config readed successfully
+2018/07/05 01:32:38 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:36:48 Application config readed successfully
+2018/07/05 01:37:16 Couldn't parse plate number information json: invalid character '\r' in string literal
+2018/07/05 01:42:14 Application config readed successfully
+2018/07/05 01:42:25 Couldn't parse plate number information json: json: cannot unmarshal string into Go struct field InputNewPlate.Ansid of type int
+2018/07/05 01:43:21 Application config readed successfully
+2018/07/05 01:46:29 Application config readed successfully
+2018/07/05 01:46:50 Application config readed successfully
+2018/07/05 01:47:14 Houston, we have a problem with server, code: 400 Bad Request
+2018/07/05 01:47:14 Couldn't make request to Routing service: Houston, we have a problem with server, code: 400 Bad Request
+2018/07/05 01:49:20 Application config readed successfully
+2018/07/05 01:53:45 Application config readed successfully

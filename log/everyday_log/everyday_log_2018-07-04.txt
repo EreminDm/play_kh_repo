@@ -1,0 +1,2 @@
+2018/07/04 21:41:08 Folder created: ../log/everyday_log
+2018/07/04 21:41:08 Application config readed successfully

@@ -1,0 +1,27 @@
+2018/07/22 15:02:51 Application config readed successfully
+2018/07/22 15:10:02 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 15:10:02 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 15:10:22 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 15:10:22 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 15:57:23 Application config readed successfully
+2018/07/22 16:10:41 Application config readed successfully
+2018/07/22 16:12:58 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 16:12:58 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 16:14:39 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 16:14:39 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 16:18:04 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 16:18:04 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 17:00:23 Application config readed successfully
+2018/07/22 17:01:32 SelectFromDBEntrance(): sql query problem: pq: незавершённая строка в кавычках (примерное положение: "'a210uao")
+2018/07/22 17:01:42 SelectFromDBEntrance(): sql query problem: pq: незавершённая строка в кавычках (примерное положение: "'a210uao")
+2018/07/22 17:01:52 SelectFromDBEntrance(): sql query problem: pq: незавершённая строка в кавычках (примерное положение: "'a210uao")
+2018/07/22 17:02:02 SelectFromDBEntrance(): sql query problem: pq: незавершённая строка в кавычках (примерное положение: "'a210uao")
+2018/07/22 17:02:11 Application config readed successfully
+2018/07/22 17:02:12 SelectFromDBEntrance(): sql query problem: pq: незавершённая строка в кавычках (примерное положение: "'a210uao")
+2018/07/22 17:02:22 SelectFromDBEntrance(): sql query problem: pq: незавершённая строка в кавычках (примерное положение: "'a210uao")
+2018/07/22 17:04:33 Application config readed successfully
+2018/07/22 17:07:24 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 17:07:24 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 17:09:05 Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 17:09:05 Couldn't make request to Routing service: Houston, we have a problem with server, code: 500 Internal Server Error
+2018/07/22 17:15:29 Application config readed successfully
